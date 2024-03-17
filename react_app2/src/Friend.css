@@ -1,0 +1,9 @@
+.box{
+    border: 2px solid yellow;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(216, 212, 212);
+    box-shadow: inset(0px 0px 20px rgba(255, 255, 255));
+    border-radius: 20px;
+    color: red;
+}
